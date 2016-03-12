@@ -68,11 +68,11 @@ Plus, imagine how funny Bernie would be on *Jeopardy!*. "What is ahhhh, bill-yon
 <table>
 <tr>
 <td>Drew Carey</td>
-<td>Hillary Clinton</td>
+<td>?</td>
 </tr>
 <tr>
 <td><img height="200" src="/images/carey.jpg" alt="Drew Carey" /></td>
-<td><img height="200" src="/images/clinton.jpg" alt="Hillary Clinton" /></td>
+<td>?</td>
 </tr>
 </table>
 <s>Carey and Clinton share more than the first letter of their last name. They're both experienced and have been rock-steady constants on television since the 90s. <a href="http://www.webcitation.org/60EB9pDOV">Drew supports libraries</a>, <a href="http://www.usatoday.com/story/onpolitics/2013/07/08/hillary-clinton-library-little-rock/2499921/">as does Clinton</a>, the former host of *Whose Line Is It Anyway?* <a href="http://www.webcitation.org/60Fp8jhOW">encourages women in sports</a>, just like the <a href="http://eca.state.gov/video/secretary-clinton-empowers-women-and-girls-through-sports">former Secretary of State</a>, and they have both demonstrated a great love for America's armed forces.</s>
