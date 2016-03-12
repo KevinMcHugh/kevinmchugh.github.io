@@ -75,7 +75,13 @@ Plus, imagine how funny Bernie would be on *Jeopardy!*. "What is ahhhh, bill-yon
 <td><img height="200" src="/images/clinton.jpg" alt="Hillary Clinton" /></td>
 </tr>
 </table>
-Carey and Clinton share more than the first letter of their last name. They're both experienced and have been rock-steady constants on television since the 90s. [Drew supports libraries](http://www.webcitation.org/60EB9pDOV), [as does Clinton](http://www.usatoday.com/story/onpolitics/2013/07/08/hillary-clinton-library-little-rock/2499921/), the former host of *Whose Line Is It Anyway?* [encourages women in sports](http://www.webcitation.org/60Fp8jhOW), just like the [former Secretary of State](http://eca.state.gov/video/secretary-clinton-empowers-women-and-girls-through-sports), and they have both demonstrated a great love for America's armed forces.
+<s>Carey and Clinton share more than the first letter of their last name. They're both experienced and have been rock-steady constants on television since the 90s. <a href="http://www.webcitation.org/60EB9pDOV">Drew supports libraries</a>, <a href="http://www.usatoday.com/story/onpolitics/2013/07/08/hillary-clinton-library-little-rock/2499921/">as does Clinton</a>, the former host of *Whose Line Is It Anyway?* <a href="http://www.webcitation.org/60Fp8jhOW">encourages women in sports</a>, just like the <a href="http://eca.state.gov/video/secretary-clinton-empowers-women-and-girls-through-sports">former Secretary of State</a>, and they have both demonstrated a great love for America's armed forces.</s>
+
+**UPDATE 2016-03-11:**
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/krmchugh">@krmchugh</a> I DO NOT support Hillary Clinton for president. Don&#39;t know where you heard this but please correct your post.</p>&mdash; Drew Carey (@DrewFromTV) <a href="https://twitter.com/DrewFromTV/status/708452701500145664">March 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Drew Carey saw this and responded. I am sorry for misunderstanding and I will endeavor to bring my journalistic standards up in the remaining months of this election. My sincerest apologies to Mr. Carey for misrepresenting his political opinions. I am sorry for any offense I have caused. I have reached out asking for an accurate endorsement and will update this post as appropriate.
 
 <h2> Chuck Woolery </h2>
 
