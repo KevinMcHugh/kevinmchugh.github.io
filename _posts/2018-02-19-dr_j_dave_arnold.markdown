@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dr. J Cocktail by Dave Arnold"
 date:   2018-02-19 16:26:24
-categories: cocktails recipes milk-syrup acid-correction
+tags: cocktails recipes milk-syrup acid-correction
 ---
 This is a recipe from [Dave Arnold's](https://twitter.com/@CookingIssues) Booker and Dax. One recipe, appropriate for restaurant service, is described in his *Liquid Intelligence*. This recipe is more appropriate for home service. He described it on [Episode 319 of Cooking Issues](http://heritageradionetwork.org/podcast/hookered-up-drinks/) and I've put it here for my own convenience.
 
