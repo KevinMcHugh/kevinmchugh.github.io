@@ -32,7 +32,7 @@ Combine and stir.
 * drop vanilla extract
 * drop saline solution
 
-Shake and serve in a coupe glass. I don't have a coupe glass, so here's what mine looked like:
+Shake and serve in a coupe glass.
 <img src="/images/dr_j.jpg" alt="I own coupe glasses now!" />
 
 Look at that foam!
