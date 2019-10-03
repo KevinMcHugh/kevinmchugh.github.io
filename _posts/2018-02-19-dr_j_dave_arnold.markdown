@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "The Dr. J Cocktail by Dave Arnold"
-date:   2019-10-02 20:01:24
+date:   2018-02-19 20:01:24
 tags: cocktails recipes milk-syrup acid-correction
 ---
+Updated 2019-10-02.
+
 This is a recipe from [Dave Arnold's](https://twitter.com/@CookingIssues) Booker and Dax. One recipe, appropriate for restaurant service, is described in his *Liquid Intelligence*. This recipe is more appropriate for home service. The published recipe calls for milk-washing the white-rum. This works well if you're making a lot within a few days. The proteins in the milk will add foaming power to the rum, but that diminishes after a couple days. Using milk syrup, which keeps for weeks without losing its foaming power, means this preparation is much better suited for home bartenders.
 
 Arnold described this recipe on [Episode 319 of Cooking Issues](http://heritageradionetwork.org/podcast/hookered-up-drinks/) and I've put it here for my own convenience.
