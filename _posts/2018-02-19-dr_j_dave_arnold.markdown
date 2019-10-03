@@ -3,6 +3,7 @@ layout: post
 title:  "The Dr. J Cocktail by Dave Arnold"
 date:   2018-02-19 20:01:24
 tags: cocktails recipes milk-syrup acid-correction
+image: images/dr_j.jpg
 ---
 Updated 2019-10-02.
 

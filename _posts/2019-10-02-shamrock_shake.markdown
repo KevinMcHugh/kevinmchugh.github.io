@@ -3,6 +3,7 @@ layout: post
 title:  "The Shamrock Shake Cocktail from Prarie School"
 date:   2019-10-02 21:23:24
 tags: cocktails recipes orgeat
+image: images/shamrock_shake.jpg
 ---
 This is a recipe from Jim Meehan's short-lived Prarie School. My partner and I went there the night we decided to marry. We'd had a nice dinner, and a big discussion, and wanted to put a bow on the evening with a nice cocktail. This was one that we got.
 
