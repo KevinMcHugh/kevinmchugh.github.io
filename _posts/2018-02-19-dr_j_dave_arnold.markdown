@@ -42,6 +42,6 @@ Look at that foam!
 
 I've tried Bacardi and Denizen and they both smell like rubbing alcohol. It's not overpowering or prominent in the drink, but it's unfortunate.
 
-Botran white rum works beautifully here. It's the only one of the three I've tried that isn't unpleasantly obvious.
+Botran and Plantation white rums have worked well for me!
 
 *[click here to leave this filth and go home]({{site.url}})*
