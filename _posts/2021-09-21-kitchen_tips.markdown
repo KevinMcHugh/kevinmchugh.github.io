@@ -3,6 +3,7 @@ layout: post
 title:  "Kitchen Tips"
 date:   2021-09-21
 tags: cooking
+image: images/scraps.png
 ---
 Here's a collection of minor cooking tips that I think make life in the kitchen easier. Lots of these I learned from J. Kenji Lopez-Alt and Dave Arnold.
 
